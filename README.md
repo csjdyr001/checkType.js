@@ -1,5 +1,5 @@
 # checkType.js
-Detect variable types in javascript
+Detect variable types in javascript ES6
 
 # Use
 ```javascript
